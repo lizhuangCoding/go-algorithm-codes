@@ -1,4 +1,4 @@
-package GraphTheory
+package dfs_bfs
 
 // dfs。有向边，不是无向边。
 // 力扣：https://leetcode.cn/problems/detonate-the-maximum-bombs/
